@@ -10,3 +10,6 @@ https://cyberfeminismindex.com/
 
 Sadie Plant's Zeros and Ones
 https://monoskop.org/images/1/17/Plant_Sadie_Zeros_and_Ones_Digital_Women_and_the_New_Technoculture_1997.pdf
+
+Folder poetry instructions resource
+https://lovelanguages.melaniehoff.com/folder-poetry/
