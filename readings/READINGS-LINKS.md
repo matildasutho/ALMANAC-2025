@@ -13,3 +13,8 @@ https://monoskop.org/images/1/17/Plant_Sadie_Zeros_and_Ones_Digital_Women_and_th
 
 Folder poetry instructions resource
 https://lovelanguages.melaniehoff.com/folder-poetry/
+
+Petra Cortwright Digital Home
+https://www.petracortright.com/
+
+
