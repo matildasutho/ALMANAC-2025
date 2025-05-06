@@ -17,4 +17,23 @@ https://lovelanguages.melaniehoff.com/folder-poetry/
 Petra Cortwright Digital Home
 https://www.petracortright.com/
 
+----------------------------------------------
+WEEK 10
 
+Tennen, Dennis. _The Poetics of Computation, Chapter 1: Metaphor Machines_. 2017.
+https://monoskop.org/media/text/tenen_2017_plain_text/#page_23
+
+Art + Australia Archive
+https://artandaustralia.com/archive/
+
+DATA MINDS, Exhibition Digital Catalogue/Archive
+https://www.dataminds2024.com.au/
+
+Kim Albrecht
+https://kimalbrecht.com/
+
+Rosa Menkman
+https://beyondresolution.info/0000-HOROLOGY
+
+Kate Crawford, Calculating Empires
+https://calculatingempires.net/
