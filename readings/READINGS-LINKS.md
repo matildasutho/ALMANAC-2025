@@ -25,8 +25,8 @@ https://monoskop.org/media/text/tenen_2017_plain_text/#page_23
 
 Nancy Mauro-Flude. _Performing the Internet: Post Internet Folklore_. January 2019
 DOI:10.4018/978-1-5225-7195-7
-In book: Digital Humanities and Scholarly Research Trends in the Asia-Pacific (pp.200-227)Chapter: Chapter 10Publisher: Hershey: IGI Global
-*PDF IN readings FOLDER*
+
+### PDF IN readings FOLDER
 
 Art + Australia Archive
 https://artandaustralia.com/archive/
