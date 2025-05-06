@@ -24,9 +24,8 @@ Dennis Tennen. _The Poetics of Computation, Chapter 1: Metaphor Machines_. 2017
 https://monoskop.org/media/text/tenen_2017_plain_text/#page_23
 
 Nancy Mauro-Flude. _Performing the Internet: Post Internet Folklore_. January 2019
-DOI:10.4018/978-1-5225-7195-7
+DOI:10.4018/978-1-5225-7195-7 **[ PDF IN READINGS FOLDER ]**
 
-### PDF IN readings FOLDER
 
 Art + Australia Archive
 https://artandaustralia.com/archive/
