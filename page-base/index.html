@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Almanac</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            width: 100vw;
+            height: 100vh;
+            background-color: blue;
+            color: white;
+            font-family: Arial;
+            font-size: 12px;
+        }
+        header {
+          padding: 0.5rem;
+          display: flex;
+          flex-direction: row;
+        }
+        h1 {
+            font-size: 2.4rem;
+        }
+        /* style id */
+        #nav-bar {
+            display: flex;
+            flex-direction: row;
+            gap: 0.5rem;
+        }
+        /* style class */
+        .content-wrapper {
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            padding: 2rem;
+            margin: 2rem;
+            background-color: lightblue;
+            gap: 0.5rem;
+        }
+        .content-wrapper > * {
+            width: 50%;
+            /* margin: 0.5rem; */
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ALMANAC</h1>
+        <div id="nav-bar">
+            <a>ABOUT</a>
+            <a>CONTACT</a>
+        </div>
+    </header>
+    <div class="content-wrapper">
+        <div>
+            <h2>Column 1</h2>
+            <p>The laws of the tetrad exist simultaneously, not successively or chronologically, and allow the questioner to explore the "grammar and syntax" of the "language" of media. McLuhan departs from the media theory of Harold Innis in suggesting that a medium "overheats", or reverses into an opposing form, when taken to its extreme.[6]</p>
+        </div>
+        <div>
+            <h2>Column 2</h2>
+            <p>Visually, a tetrad can be depicted as four diamonds forming an X, with the name of a medium in the center, where the left/right direction reflects the figure/ground association. The two diamonds on the left of a tetrad are the Enhancement and Retrieval qualities of the medium, both Figure qualities. The two diamonds on the right of a tetrad are the Obsolescence and Reversal qualities, both Ground qualities.[7]</p>
+        </div>
+    </div>
+</body>
+</html>
