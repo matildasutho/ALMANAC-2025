@@ -43,3 +43,12 @@ https://monoskop.org/media/text/tenen_2017_plain_text/#page_23
 
 Nancy Mauro-Flude. _Performing the Internet: Post Internet Folklore_. January 2019
 DOI:10.4018/978-1-5225-7195-7 **[ PDF IN READINGS FOLDER ]**
+
+Mouchette
+https://mouchette.org/
+
+Olia Lialina, My boyfriend came back from the war
+http://www.teleportacia.org/war/
+
+Exitsense
+https://exitsense.net/
